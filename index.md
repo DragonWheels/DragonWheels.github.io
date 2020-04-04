@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## My web site
+
+Welcome to my website. How are you today?
 
 You can use the [editor on GitHub](https://github.com/DragonWheels/DragonWheels.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
