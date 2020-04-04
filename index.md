@@ -2,7 +2,7 @@
 
 Welcome to my website. How are you today?
 
-[About Me] (about)
+[About Me](about)
 
 ## List of colours I like:
 - green
