@@ -6,6 +6,8 @@ Welcome to my website. How are you today?
 - green
 - blue
 
+![Bugs bunny](https://lh6.ggpht.com/DYTcLHZY_kBvcC7-UeteEe2U46M6524FzheSEZ_rQ87KxSjvGF4l5yH-g6B2fCvWQ5gkXeZt2F69hYJEzr7BE5gNUm8Y=s0)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
