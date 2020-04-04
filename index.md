@@ -1,10 +1,10 @@
-## My web site
+## My website
 
 Welcome to my website. How are you today?
 
-You can use the [editor on GitHub](https://github.com/DragonWheels/DragonWheels.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## List my colors list:
+- green
+- blue
 
 ### Markdown
 
