@@ -2,6 +2,8 @@
 
 Welcome to my website. How are you today?
 
+My home page
+
 ## List of colours I like:
 - green
 - blue
