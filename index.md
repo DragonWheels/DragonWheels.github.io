@@ -2,7 +2,7 @@
 
 Welcome to my website. How are you today?
 
-## List my colors list:
+## List of colours I like:
 - green
 - blue
 
