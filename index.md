@@ -2,7 +2,7 @@
 
 Welcome to my website. How are you today?
 
-[About Me](about)
+[About Me](DragonWheels.github.io/about.md)
 
 ## List of colours I like:
 - green
